@@ -712,7 +712,7 @@ GameObject:
   m_Name: Terrain_(100.00, 0.00, -100.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
+  m_NavMeshLayer: 3
   m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &312821454
@@ -1201,7 +1201,7 @@ GameObject:
   m_Name: Terrain_(100.00, 0.00, 0.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
+  m_NavMeshLayer: 3
   m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &525161379
@@ -1751,7 +1751,7 @@ GameObject:
   m_Name: Terrain_(0.00, 0.00, -100.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
+  m_NavMeshLayer: 3
   m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &746463509
@@ -2217,7 +2217,7 @@ GameObject:
   m_Name: Terrain_(0.00, 0.00, 100.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
+  m_NavMeshLayer: 3
   m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &891381902
@@ -2632,7 +2632,7 @@ GameObject:
   m_Name: Terrain_(100.00, 0.00, 100.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
+  m_NavMeshLayer: 3
   m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1107128317
@@ -2710,7 +2710,7 @@ GameObject:
   m_Name: Terrain_(-100.00, 0.00, -100.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
+  m_NavMeshLayer: 3
   m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1128142815
@@ -4885,7 +4885,7 @@ GameObject:
   m_Name: Terrain_(-100.00, 0.00, 0.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
+  m_NavMeshLayer: 3
   m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1771442891
@@ -5045,7 +5045,7 @@ GameObject:
   m_Name: Terrain_(-100.00, 0.00, 100.00)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
+  m_NavMeshLayer: 3
   m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1925263653
